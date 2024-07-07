@@ -28,6 +28,7 @@ header span {
 .main-section {
   background-color: rgb(250, 250, 255);
   height: 100vh;
+  padding: 60px 0px;
 }
 
 .main-title {
@@ -38,7 +39,7 @@ header span {
   line-height: 58px;
   letter-spacing: 0%;
   text-align: left;
-  margin-bottom: 19px;
+  margin-bottom: 20px;
 }
 
 .main-text {
